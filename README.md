@@ -1,4 +1,4 @@
-# popmednet
+# PopMedNet (PMN)
 This will contain the code of the open source code. 
 
 Go into the Folder DataMartClientSetup and unzip the file Demostation Query Tool
